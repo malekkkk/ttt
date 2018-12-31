@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\resources",
+    "\\resources\\android",
+    "\\resources\\android\\icon",
+    "\\src",
+    "\\src\\app",
+    "\\src\\pages",
+    "\\src\\pages\\home",
+    "\\src\\pages\\reservoir-details",
+    "\\src\\providers",
+    "\\src\\providers\\auth-service",
+    "\\src\\theme"
+  ],
+  "SelectedNode": "\\resources\\spalshIcon.png",
+  "PreviewInSolutionExplorer": false
+}
